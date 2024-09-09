@@ -1,2 +1,3 @@
 aaj k hisaab hai: 12000,
-coming profit is: 20,000,000,000.000
+coming profit is: 20,000,000,000.000,
+after coming profit there is more profit of: 120,000,000,000.000
